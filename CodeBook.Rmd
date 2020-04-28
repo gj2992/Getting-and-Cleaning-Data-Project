@@ -2,7 +2,7 @@
 title: "CodeBook"
 author: "Gregory Julock"
 date: "4/26/2020"
-output: html_document
+output: github_document
 
 ---
 
