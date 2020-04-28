@@ -3,9 +3,9 @@
 output: md_document
 
 ---
-# title: "CodeBook.md"
-# author: "Gregory Julock"
-# date: "4/26/2020"
+# Title: "CodeBook.md"
+# Author: "Gregory Julock"
+# Date: "4/26/2020"
 
 ## Getting and Cleaning Data Course Project  
 
