@@ -1,4 +1,8 @@
-setwd("/Users/gj/Rstudio-repo-local/R cleaning project")
+#File: run_analysis.R
+#Author: Gregory Julock
+#Getting and Cleaning Data Course Project
+#26 APR 2020
+
 library(data.table)
 library(dplyr)
 library(tidyverse)
