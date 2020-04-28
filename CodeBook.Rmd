@@ -24,15 +24,12 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Data retrieved for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-```{r, include=FALSE}
-#setwd("/Users/gj/Rstudio-repo-local/R cleaning project")
-```
+
 Used the following libraries:
-```{r, message=FALSE}
+``` {r message=FALSE}
 library(data.table)
 library(dplyr)
 library(tidyverse)
-
 ```
 
   
