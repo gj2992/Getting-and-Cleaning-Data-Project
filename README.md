@@ -5,9 +5,9 @@ output: md_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# title: "README.md"
-# author: "Gregory Julock"
-# date: "4/28/2020"
+# Title: "README.md"
+# Author: "Gregory Julock"
+# Date: "4/28/2020"
 
 
 This README file explains how all of the scripts work for the Getting and Cleaning Data Course Project and how they are connected. 
