@@ -944,7 +944,7 @@ print(str(columnsneeddf))
 
 ``` r
 #check activity number in column and replace with corresponding activity label
-for (i in 1:6){ columnsneeddf$V2[columnsneeddf$V2 == i] <- c(activitylables$V2[i])}
+columnsneeddf$V2<- activitylables$V2[match(columnsneeddf$V2,activitylables$V1)]
 print(str(columnsneeddf$V2))
 ```
 
